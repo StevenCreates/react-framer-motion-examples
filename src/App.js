@@ -1,24 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import { AnimationPropExample } from "./examples/AnimationPropExample";
+import { ExampleOne } from "./examples/ExampleOne";
+import { GestureExample } from "./examples/GestureExample"
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <ExampleOne />
+      {/* If you want to see the other examples comment out Example One and Uncomment the example of choise */}
+      {/* <GestureExample />
+      <AnimationPropExample /> */}
+    </>
   );
 }
 
