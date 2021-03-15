@@ -1,4 +1,4 @@
-# Using useReducer and useContext with Typescript in React
+# React Framer Motion Examples
 
 ## Simple to get started
 - Follow Me
