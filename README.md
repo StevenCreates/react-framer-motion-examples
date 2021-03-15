@@ -9,7 +9,7 @@
 ### Resources
 
 - Article/Guide
-- coming soon!
+- https://medium.com/@steven_creates/how-to-use-framer-motion-with-react-a2639b6b9b6b
 
 
 
